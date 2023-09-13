@@ -10,6 +10,8 @@ export default {
         var name = 'sda';
         asdad
         sda
+
+        bbbb
     }
 }
 </script >
