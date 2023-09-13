@@ -12,6 +12,8 @@ export default {
         sda
 
         bbbb
+
+        dddd
     }
 }
 </script >
