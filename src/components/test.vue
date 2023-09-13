@@ -7,7 +7,7 @@
 export default {
     name: '',
     setup() {
-
+        var name = 'sda';
     }
 }
 </script >
