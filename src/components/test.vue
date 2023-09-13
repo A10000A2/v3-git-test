@@ -8,6 +8,8 @@ export default {
     name: '',
     setup() {
         var name = 'sda';
+
+        sda
     }
 }
 </script >
