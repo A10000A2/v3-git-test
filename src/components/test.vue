@@ -8,7 +8,7 @@ export default {
     name: '',
     setup() {
         var name = 'sda';
-
+        asdad
         sda
     }
 }
