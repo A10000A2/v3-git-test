@@ -1,14 +1,11 @@
 <!--  -->
 <template>
-  <div class='app'>
-    dsad
-    sda
-  </div>
+    <div class=''></div>
 </template>
 
 <script>
 export default {
-  name: 'App',
+    name: '',
 }
 </script >
 
